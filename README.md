@@ -5,7 +5,7 @@ My programs written in C# with Monogame framework for my college classes.
 
 ![alt text](https://github.com/kkuzmicki/3D-mini-projects/blob/master/Images/SolarSystem.png?raw=true)
 
-<p>This program shows animated symbolic Solar System, but does not reflect the movement of the actual celestial bodies.</p>
+<p>This program shows animated symbolic Solar System (but does not reflect the movement of the actual celestial bodies!).</p>
 - <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> - rotate camera <br/>
 - <kbd>Q</kbd> / <kbd>A</kbd> - zoom in/out camera <br/>
 - <kbd>X</kbd> - turn on/off grid <br/>
