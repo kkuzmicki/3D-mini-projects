@@ -2,19 +2,27 @@
 My programs written in C# with Monogame framework for my college classes.
 
 ## SolarSystem
-This program shows animated symbolic Solar System, but does not reflect the movement of the actual celestial bodies.
 
-- <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> - rotate camera
-- <kbd>Q</kbd> / <kbd>A</kbd> - zoom in/out camera
-- <kbd>X</kbd> - turn on/off grid
-- <kbd>B</kbd> - turn on/off background
+![alt text](https://github.com/kkuzmicki/3D-mini-projects/blob/master/Images/SolarSystem.png?raw=true)
+
+<p>This program shows animated symbolic Solar System, but does not reflect the movement of the actual celestial bodies.</p>
+- <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> - rotate camera <br/>
+- <kbd>Q</kbd> / <kbd>A</kbd> - zoom in/out camera <br/>
+- <kbd>X</kbd> - turn on/off grid <br/>
+- <kbd>B</kbd> - turn on/off background <br/>
 
 ## House
+
+![alt text](https://github.com/kkuzmicki/3D-mini-projects/blob/master/Images/House.png?raw=true)
+
 This program shows simple house model with textures.
 - <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> - rotate camera
 - <kbd>W</kbd> / <kbd>S</kbd> - zoom in/out camera
 
 ## Robotic Arm
+
+![alt text](https://github.com/kkuzmicki/3D-mini-projects/blob/master/Images/RoboticArm.png?raw=true)
+
 This program shows robotic arm, that can be controlled via keyboard keys.
 - <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> - rotate camera
 - <kbd>Q</kbd> / <kbd>A</kbd> - zoom in/out camera
